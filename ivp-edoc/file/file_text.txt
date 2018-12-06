@@ -1,0 +1,10 @@
+﻿Admin  :  Cancel
+
+Flow login > accept cancel edoc success
+
+Focus 
+	- หมายเลขบัตรประชาชน
+	- ประเภทบริการ
+	- ประเภทรายการ
+
+
